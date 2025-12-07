@@ -1,4 +1,4 @@
-# Final Project
+# ASL Alexa
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
