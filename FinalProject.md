@@ -1,5 +1,7 @@
 # Final Project
 
+By: Viha Srinivas, Nikhil Gangaram, Sachin Jojode, Arya Prasad
+
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
 
 Project plan - November 10  (updated documentation due in Canvas November 11)
